@@ -128,23 +128,4 @@ Students and researchers interested in contributing should:
 ## 👥 Team
 - Professor Nik Bear Brown (Project Lead)
 - Student Contributors
-- Research Assistants
-- Advisory Board
-- Industry Partners
-
-## 📫 Contact
-For questions, collaborations, or more information:
-- Email: [Project Email]
-- Academic Inquiries: [Department Contact]
-- Technical Support: [GitHub Issues]
-
-## 🙏 Acknowledgments
-- Northeastern University
-- Contributing Students
-- Industry Partners
-- Research Collaborators
-
----
-*Last Updated: [Date]*
-*Version: [Number]*
 
